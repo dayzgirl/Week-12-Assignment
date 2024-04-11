@@ -1,0 +1,67 @@
+/* Custom CSS for CRUD Application */
+
+/* Body background color */
+body {
+    background-color: #f0f8ff; /* AliceBlue */
+}
+
+/* Header text color */
+h1 {
+    color: #228b22; /* ForestGreen */
+}
+
+/* Form input border color */
+.form-control {
+    border-color: #ffb6c1; /* LightPink */
+}
+
+/* Button background color */
+.btn-primary {
+    background-color: #ffd700; /* Gold */
+}
+
+/* Button hover background color */
+.btn-primary:hover {
+    background-color: #ffd700; /* Gold */
+    opacity: 0.8;
+}
+
+/* Table header background color */
+.table thead th {
+    background-color: #ffb6c1; /* LightPink */
+}
+
+/* Table cell border color */
+.table td, .table th {
+    border-color: #228b22; /* ForestGreen */
+}
+
+/* Button color */
+.btn-info, .btn-danger {
+    color: #fff; /* White */
+}
+
+/* Button background color */
+.btn-info {
+    background-color: #87ceeb; /* SkyBlue */
+}
+
+/* Button background color */
+.btn-danger {
+    background-color: #ff6347; /* Tomato */
+}
+
+/* Button hover background color */
+.btn-info:hover, .btn-danger:hover {
+    opacity: 0.8;
+}
+
+/* Button border color */
+.btn-info, .btn-danger {
+    border-color: #87ceeb; /* SkyBlue */
+}
+
+/* Button border color */
+.btn-info:hover, .btn-danger:hover {
+    border-color: #87ceeb; /* SkyBlue */
+}
